@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.btn{
+    width:90px;
+    margin-left: 7px;
+}
+.container{
+    border: 5px grey solid;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
